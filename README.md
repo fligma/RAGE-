@@ -19,3 +19,4 @@
 <div align=center>ESC in menu to close game</div>
 <div align=center>------------</div>
 <div align=center>x86_64</div>
+DISCLAIMER!!: this code is ass
