@@ -1,5 +1,5 @@
 
-<div align=center># RAGE!</div>
+<div align=center><h1>RAGE!</h1></div>
 
 <div align=center>Night every 30 seconds (lasts 10 seconds)</div>
 
