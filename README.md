@@ -1,19 +1,21 @@
-# RAGE!
 
-Night every 30 seconds (lasts 10 seconds)
+<div align=center># RAGE!</div>
 
-bugs spawn faster at night
+<div align=center>Night every 30 seconds (lasts 10 seconds)</div>
 
-if a bug is off the screen for too long it will speed up
 
---controls--
-[WASD] to move
+<div align=center>bugs spawn faster at night</div>
 
-Gun follows cursor [Left Click] to shoot
+<div align=center>if a bug is off the screen for too long it will speed up</div>
 
-P to pause and unpause; When in-game/pause ESC to go to menu
+<div align=center>--controls--</div>
 
-ESC in menu to close game
+<div align=center>[WASD] to move</div>
 
-------------
-x86_64
+<div align=center>Gun follows cursor [Left Click] to shoot</div>
+
+<div align=center>P to pause and unpause; When in-game/pause ESC to go to menu</div>
+
+<div align=center>ESC in menu to close game</div>
+<div align=center>------------</div>
+<div align=center>x86_64</div>
