@@ -1,4 +1,4 @@
-<div align=center>![BUG](https://raw.githubusercontent.com/fligma/RAGE-/refs/heads/main/assets/enemy_walk1(64x64).png)</div>
+![BUG](https://raw.githubusercontent.com/fligma/RAGE-/refs/heads/main/assets/enemy_walk1(64x64).png)
 <div align=center><h1>RAGE!</h1></div>
 
 <div align=center>Night every 30 seconds (lasts 10 seconds)</div>
